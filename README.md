@@ -1,6 +1,6 @@
 # Bitcoin Wallet Application
 
-This is a simple Bitcoin wallet application built with React, Redux, and styled-components.
+Simple Bitcoin wallet application built with React, Redux, and styled-components.
 
 ## Prerequisites
 
